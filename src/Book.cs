@@ -7,7 +7,14 @@ namespace GradeBook
 {
     public class Book
     {
-        private List<double> grades = new List<double>();
+        private List<double> grades;
+        public string Name;
+
+        public Book(string name)
+        {
+            grades = new List<double>();
+            Name = name;
+        }
         public void AddGrade(double grade)
         {
             grades.Add(grade);
@@ -16,7 +23,7 @@ namespace GradeBook
         public Statistics GetStatistics()
         {
             var result = new Statistics();
-
+            result.Average = 0.0;
             result.High = double.MinValue;
             result.Low = double.MaxValue;
 

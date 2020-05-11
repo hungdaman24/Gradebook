@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd6d5038_002D71c3_002D423e_002Dbd3c_002D971e76d13c1d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::81352965-51EB-4868-AD0F-A456962FF512::.NETCoreApp,Version=v3.1::GradeBook.Tests.TypeTests.GetBookReturnsDifferentObjects&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::81352965-51EB-4868-AD0F-A456962FF512::.NETCoreApp,Version=v3.1::GradeBook.Tests.TypeTests.TwoVariablesCanReferenceSameObject&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::81352965-51EB-4868-AD0F-A456962FF512::.NETCoreApp,Version=v3.1::GradeBook.Tests.TypeTests.SetNewNameOnBook&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
